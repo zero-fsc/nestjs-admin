@@ -1,0 +1,193 @@
+2022-11-15 00:09:50:495 INFO  --- [ RoutesResolver]              core\dist\log4js.classes.js  : AppController {/}:
+2022-11-15 00:09:50:499 INFO  --- [ RouterExplorer]              core\dist\log4js.classes.js  : Mapped {/, GET} route
+2022-11-15 00:09:50:499 INFO  --- [ RoutesResolver]              core\dist\log4js.classes.js  : UserController {/user}:
+2022-11-15 00:09:50:500 INFO  --- [ RouterExplorer]              core\dist\log4js.classes.js  : Mapped {/user/register, POST} route
+2022-11-15 00:09:50:505 INFO  --- [NestApplication]              core\dist\log4js.classes.js  : Nest application successfully started
+2022-11-15 00:18:40:013 INFO  --- [ RoutesResolver]              core\dist\log4js.classes.js  : AppController {/}:
+2022-11-15 00:18:40:017 INFO  --- [ RouterExplorer]              core\dist\log4js.classes.js  : Mapped {/, GET} route
+2022-11-15 00:18:40:017 INFO  --- [ RoutesResolver]              core\dist\log4js.classes.js  : UserController {/user}:
+2022-11-15 00:18:40:018 INFO  --- [ RouterExplorer]              core\dist\log4js.classes.js  : Mapped {/user/register, POST} route
+2022-11-15 00:18:40:023 INFO  --- [NestApplication]              core\dist\log4js.classes.js  : Nest application successfully started
+2022-11-15 00:20:42:214 INFO  --- [ RoutesResolver]              core\dist\log4js.classes.js  : AppController {/}:
+2022-11-15 00:20:42:217 INFO  --- [ RouterExplorer]              core\dist\log4js.classes.js  : Mapped {/, GET} route
+2022-11-15 00:20:42:217 INFO  --- [ RoutesResolver]              core\dist\log4js.classes.js  : UserController {/user}:
+2022-11-15 00:20:42:218 INFO  --- [ RouterExplorer]              core\dist\log4js.classes.js  : Mapped {/user/register, POST} route
+2022-11-15 00:20:42:223 INFO  --- [NestApplication]              core\dist\log4js.classes.js  : Nest application successfully started
+2022-11-15 00:21:34:580 INFO  --- [ RoutesResolver]              core\dist\log4js.classes.js  : AppController {/}:
+2022-11-15 00:21:34:583 INFO  --- [ RouterExplorer]              core\dist\log4js.classes.js  : Mapped {/, GET} route
+2022-11-15 00:21:34:584 INFO  --- [ RoutesResolver]              core\dist\log4js.classes.js  : UserController {/user}:
+2022-11-15 00:21:34:584 INFO  --- [ RouterExplorer]              core\dist\log4js.classes.js  : Mapped {/user/register, POST} route
+2022-11-15 00:21:34:589 INFO  --- [NestApplication]              core\dist\log4js.classes.js  : Nest application successfully started
+2022-11-15 00:23:21:593 INFO  --- [ RoutesResolver]              core\dist\log4js.classes.js  : AppController {/}:
+2022-11-15 00:23:21:597 INFO  --- [ RouterExplorer]              core\dist\log4js.classes.js  : Mapped {/, GET} route
+2022-11-15 00:23:21:598 INFO  --- [ RoutesResolver]              core\dist\log4js.classes.js  : UserController {/user}:
+2022-11-15 00:23:21:599 INFO  --- [ RouterExplorer]              core\dist\log4js.classes.js  : Mapped {/user/register, POST} route
+2022-11-15 00:23:21:604 INFO  --- [NestApplication]              core\dist\log4js.classes.js  : Nest application successfully started
+2022-11-15 00:24:09:961 INFO  --- [ RoutesResolver]              core\dist\log4js.classes.js  : AppController {/}:
+2022-11-15 00:24:09:965 INFO  --- [ RouterExplorer]              core\dist\log4js.classes.js  : Mapped {/, GET} route
+2022-11-15 00:24:09:965 INFO  --- [ RoutesResolver]              core\dist\log4js.classes.js  : UserController {/user}:
+2022-11-15 00:24:09:966 INFO  --- [ RouterExplorer]              core\dist\log4js.classes.js  : Mapped {/user/register, POST} route
+2022-11-15 00:24:09:970 INFO  --- [NestApplication]              core\dist\log4js.classes.js  : Nest application successfully started
+2022-11-15 00:26:10:493 INFO  --- [ RoutesResolver]              core\dist\log4js.classes.js  : AppController {/}:
+2022-11-15 00:26:10:497 INFO  --- [ RouterExplorer]              core\dist\log4js.classes.js  : Mapped {/, GET} route
+2022-11-15 00:26:10:498 INFO  --- [ RoutesResolver]              core\dist\log4js.classes.js  : UserController {/user}:
+2022-11-15 00:26:10:499 INFO  --- [ RouterExplorer]              core\dist\log4js.classes.js  : Mapped {/user/register, POST} route
+2022-11-15 00:26:10:504 INFO  --- [NestApplication]              core\dist\log4js.classes.js  : Nest application successfully started
+2022-11-15 00:27:57:715 INFO  --- [ RoutesResolver]              core\dist\log4js.classes.js  : AppController {/}:
+2022-11-15 00:27:57:719 INFO  --- [ RouterExplorer]              core\dist\log4js.classes.js  : Mapped {/, GET} route
+2022-11-15 00:27:57:719 INFO  --- [ RoutesResolver]              core\dist\log4js.classes.js  : UserController {/user}:
+2022-11-15 00:27:57:720 INFO  --- [ RouterExplorer]              core\dist\log4js.classes.js  : Mapped {/user/register, POST} route
+2022-11-15 00:27:57:725 INFO  --- [NestApplication]              core\dist\log4js.classes.js  : Nest application successfully started
+2022-11-15 00:28:21:792 INFO  --- [ RoutesResolver]              core\dist\log4js.classes.js  : AppController {/}:
+2022-11-15 00:28:21:795 INFO  --- [ RouterExplorer]              core\dist\log4js.classes.js  : Mapped {/, GET} route
+2022-11-15 00:28:21:796 INFO  --- [ RoutesResolver]              core\dist\log4js.classes.js  : UserController {/user}:
+2022-11-15 00:28:21:797 INFO  --- [ RouterExplorer]              core\dist\log4js.classes.js  : Mapped {/user/register, POST} route
+2022-11-15 00:28:21:801 INFO  --- [NestApplication]              core\dist\log4js.classes.js  : Nest application successfully started
+2022-11-15 00:30:42:493 INFO  --- [ RoutesResolver]              core\dist\log4js.classes.js  : AppController {/}:
+2022-11-15 00:30:42:497 INFO  --- [ RouterExplorer]              core\dist\log4js.classes.js  : Mapped {/, GET} route
+2022-11-15 00:30:42:498 INFO  --- [ RoutesResolver]              core\dist\log4js.classes.js  : UserController {/user}:
+2022-11-15 00:30:42:499 INFO  --- [ RouterExplorer]              core\dist\log4js.classes.js  : Mapped {/user/register, POST} route
+2022-11-15 00:30:42:504 INFO  --- [NestApplication]              core\dist\log4js.classes.js  : Nest application successfully started
+2022-11-15 00:31:14:238 INFO  --- [ RoutesResolver]              core\dist\log4js.classes.js  : AppController {/}:
+2022-11-15 00:31:14:241 INFO  --- [ RouterExplorer]              core\dist\log4js.classes.js  : Mapped {/, GET} route
+2022-11-15 00:31:14:242 INFO  --- [ RoutesResolver]              core\dist\log4js.classes.js  : UserController {/user}:
+2022-11-15 00:31:14:242 INFO  --- [ RouterExplorer]              core\dist\log4js.classes.js  : Mapped {/user/register, POST} route
+2022-11-15 00:31:14:248 INFO  --- [NestApplication]              core\dist\log4js.classes.js  : Nest application successfully started
+2022-11-15 00:31:43:617 INFO  --- [ RoutesResolver]              core\dist\log4js.classes.js  : AppController {/}:
+2022-11-15 00:31:43:620 INFO  --- [ RouterExplorer]              core\dist\log4js.classes.js  : Mapped {/, GET} route
+2022-11-15 00:31:43:621 INFO  --- [ RoutesResolver]              core\dist\log4js.classes.js  : UserController {/user}:
+2022-11-15 00:31:43:622 INFO  --- [ RouterExplorer]              core\dist\log4js.classes.js  : Mapped {/user/register, POST} route
+2022-11-15 00:31:43:627 INFO  --- [NestApplication]              core\dist\log4js.classes.js  : Nest application successfully started
+2022-11-15 00:32:34:822 INFO  --- [ RoutesResolver]              core\dist\log4js.classes.js  : AppController {/}:
+2022-11-15 00:32:34:826 INFO  --- [ RouterExplorer]              core\dist\log4js.classes.js  : Mapped {/, GET} route
+2022-11-15 00:32:34:827 INFO  --- [ RoutesResolver]              core\dist\log4js.classes.js  : UserController {/user}:
+2022-11-15 00:32:34:830 INFO  --- [ RouterExplorer]              core\dist\log4js.classes.js  : Mapped {/user/register, POST} route
+2022-11-15 00:32:34:837 INFO  --- [NestApplication]              core\dist\log4js.classes.js  : Nest application successfully started
+2022-11-15 00:32:48:494 INFO  --- [ RoutesResolver]              core\dist\log4js.classes.js  : AppController {/}:
+2022-11-15 00:32:48:498 INFO  --- [ RouterExplorer]              core\dist\log4js.classes.js  : Mapped {/, GET} route
+2022-11-15 00:32:48:498 INFO  --- [ RoutesResolver]              core\dist\log4js.classes.js  : UserController {/user}:
+2022-11-15 00:32:48:499 INFO  --- [ RouterExplorer]              core\dist\log4js.classes.js  : Mapped {/user/register, POST} route
+2022-11-15 00:32:48:504 INFO  --- [NestApplication]              core\dist\log4js.classes.js  : Nest application successfully started
+2022-11-15 00:33:10:785 INFO  --- [ RoutesResolver]              core\dist\log4js.classes.js  : AppController {/}:
+2022-11-15 00:33:10:788 INFO  --- [ RouterExplorer]              core\dist\log4js.classes.js  : Mapped {/, GET} route
+2022-11-15 00:33:10:789 INFO  --- [ RoutesResolver]              core\dist\log4js.classes.js  : UserController {/user}:
+2022-11-15 00:33:10:790 INFO  --- [ RouterExplorer]              core\dist\log4js.classes.js  : Mapped {/user/register, POST} route
+2022-11-15 00:33:10:795 INFO  --- [NestApplication]              core\dist\log4js.classes.js  : Nest application successfully started
+2022-11-15 00:33:20:165 INFO  --- [ RoutesResolver]              core\dist\log4js.classes.js  : AppController {/}:
+2022-11-15 00:33:20:168 INFO  --- [ RouterExplorer]              core\dist\log4js.classes.js  : Mapped {/, GET} route
+2022-11-15 00:33:20:169 INFO  --- [ RoutesResolver]              core\dist\log4js.classes.js  : UserController {/user}:
+2022-11-15 00:33:20:170 INFO  --- [ RouterExplorer]              core\dist\log4js.classes.js  : Mapped {/user/register, POST} route
+2022-11-15 00:33:20:175 INFO  --- [NestApplication]              core\dist\log4js.classes.js  : Nest application successfully started
+2022-11-15 00:33:33:701 INFO  --- [ RoutesResolver]              core\dist\log4js.classes.js  : AppController {/}:
+2022-11-15 00:33:33:704 INFO  --- [ RouterExplorer]              core\dist\log4js.classes.js  : Mapped {/, GET} route
+2022-11-15 00:33:33:704 INFO  --- [ RoutesResolver]              core\dist\log4js.classes.js  : UserController {/user}:
+2022-11-15 00:33:33:705 INFO  --- [ RouterExplorer]              core\dist\log4js.classes.js  : Mapped {/user/register, POST} route
+2022-11-15 00:33:33:710 INFO  --- [NestApplication]              core\dist\log4js.classes.js  : Nest application successfully started
+2022-11-15 00:34:15:821 INFO  --- [ RoutesResolver]              core\dist\log4js.classes.js  : AppController {/}:
+2022-11-15 00:34:15:824 INFO  --- [ RouterExplorer]              core\dist\log4js.classes.js  : Mapped {/, GET} route
+2022-11-15 00:34:15:825 INFO  --- [ RoutesResolver]              core\dist\log4js.classes.js  : UserController {/user}:
+2022-11-15 00:34:15:826 INFO  --- [ RouterExplorer]              core\dist\log4js.classes.js  : Mapped {/user/register, POST} route
+2022-11-15 00:34:15:831 INFO  --- [NestApplication]              core\dist\log4js.classes.js  : Nest application successfully started
+2022-11-15 00:34:28:467 INFO  --- [ RoutesResolver]              core\dist\log4js.classes.js  : AppController {/}:
+2022-11-15 00:34:28:471 INFO  --- [ RouterExplorer]              core\dist\log4js.classes.js  : Mapped {/, GET} route
+2022-11-15 00:34:28:471 INFO  --- [ RoutesResolver]              core\dist\log4js.classes.js  : UserController {/user}:
+2022-11-15 00:34:28:472 INFO  --- [ RouterExplorer]              core\dist\log4js.classes.js  : Mapped {/user/register, POST} route
+2022-11-15 00:34:28:477 INFO  --- [NestApplication]              core\dist\log4js.classes.js  : Nest application successfully started
+2022-11-15 00:35:16:667 INFO  --- [ RoutesResolver]              core\dist\log4js.classes.js  : AppController {/}:
+2022-11-15 00:35:16:671 INFO  --- [ RouterExplorer]              core\dist\log4js.classes.js  : Mapped {/, GET} route
+2022-11-15 00:35:16:671 INFO  --- [ RoutesResolver]              core\dist\log4js.classes.js  : UserController {/user}:
+2022-11-15 00:35:16:672 INFO  --- [ RouterExplorer]              core\dist\log4js.classes.js  : Mapped {/user/register, POST} route
+2022-11-15 00:35:16:677 INFO  --- [NestApplication]              core\dist\log4js.classes.js  : Nest application successfully started
+2022-11-15 00:36:01:739 INFO  --- [ RoutesResolver]              core\dist\log4js.classes.js  : AppController {/}:
+2022-11-15 00:36:01:743 INFO  --- [ RouterExplorer]              core\dist\log4js.classes.js  : Mapped {/, GET} route
+2022-11-15 00:36:01:743 INFO  --- [ RoutesResolver]              core\dist\log4js.classes.js  : UserController {/user}:
+2022-11-15 00:36:01:744 INFO  --- [ RouterExplorer]              core\dist\log4js.classes.js  : Mapped {/user/register, POST} route
+2022-11-15 00:36:01:749 INFO  --- [NestApplication]              core\dist\log4js.classes.js  : Nest application successfully started
+2022-11-15 00:36:50:358 INFO  --- [ RoutesResolver]              core\dist\log4js.classes.js  : AppController {/}:
+2022-11-15 00:36:50:362 INFO  --- [ RouterExplorer]              core\dist\log4js.classes.js  : Mapped {/, GET} route
+2022-11-15 00:36:50:362 INFO  --- [ RoutesResolver]              core\dist\log4js.classes.js  : UserController {/user}:
+2022-11-15 00:36:50:363 INFO  --- [ RouterExplorer]              core\dist\log4js.classes.js  : Mapped {/user/register, POST} route
+2022-11-15 00:36:50:370 INFO  --- [NestApplication]              core\dist\log4js.classes.js  : Nest application successfully started
+2022-11-15 00:36:54:580 INFO  --- [ RoutesResolver]              core\dist\log4js.classes.js  : AppController {/}:
+2022-11-15 00:36:54:585 INFO  --- [ RouterExplorer]              core\dist\log4js.classes.js  : Mapped {/, GET} route
+2022-11-15 00:36:54:585 INFO  --- [ RoutesResolver]              core\dist\log4js.classes.js  : UserController {/user}:
+2022-11-15 00:36:54:586 INFO  --- [ RouterExplorer]              core\dist\log4js.classes.js  : Mapped {/user/register, POST} route
+2022-11-15 00:36:54:591 INFO  --- [NestApplication]              core\dist\log4js.classes.js  : Nest application successfully started
+2022-11-15 00:37:10:850 INFO  --- [ RoutesResolver]              core\dist\log4js.classes.js  : AppController {/}:
+2022-11-15 00:37:10:853 INFO  --- [ RouterExplorer]              core\dist\log4js.classes.js  : Mapped {/, GET} route
+2022-11-15 00:37:10:854 INFO  --- [ RoutesResolver]              core\dist\log4js.classes.js  : UserController {/user}:
+2022-11-15 00:37:10:855 INFO  --- [ RouterExplorer]              core\dist\log4js.classes.js  : Mapped {/user/register, POST} route
+2022-11-15 00:37:10:860 INFO  --- [NestApplication]              core\dist\log4js.classes.js  : Nest application successfully started
+2022-11-15 00:37:11:136 INFO  --- [              -]              core\dist\log4js.classes.js  : 当前用户已存在
+2022-11-15 00:37:38:090 INFO  --- [ RoutesResolver]              core\dist\log4js.classes.js  : AppController {/}:
+2022-11-15 00:37:38:094 INFO  --- [ RouterExplorer]              core\dist\log4js.classes.js  : Mapped {/, GET} route
+2022-11-15 00:37:38:094 INFO  --- [ RoutesResolver]              core\dist\log4js.classes.js  : UserController {/user}:
+2022-11-15 00:37:38:095 INFO  --- [ RouterExplorer]              core\dist\log4js.classes.js  : Mapped {/user/register, POST} route
+2022-11-15 00:37:38:100 INFO  --- [NestApplication]              core\dist\log4js.classes.js  : Nest application successfully started
+2022-11-15 00:38:02:073 INFO  --- [ RoutesResolver]              core\dist\log4js.classes.js  : AppController {/}:
+2022-11-15 00:38:02:076 INFO  --- [ RouterExplorer]              core\dist\log4js.classes.js  : Mapped {/, GET} route
+2022-11-15 00:38:02:076 INFO  --- [ RoutesResolver]              core\dist\log4js.classes.js  : UserController {/user}:
+2022-11-15 00:38:02:077 INFO  --- [ RouterExplorer]              core\dist\log4js.classes.js  : Mapped {/user/register, POST} route
+2022-11-15 00:38:02:082 INFO  --- [NestApplication]              core\dist\log4js.classes.js  : Nest application successfully started
+2022-11-15 00:38:04:075 INFO  --- [              -]              core\dist\log4js.classes.js  : 当前用户已存在
+2022-11-15 00:38:06:447 INFO  --- [              -]              core\dist\log4js.classes.js  : 当前用户已存在
+2022-11-15 00:38:07:425 INFO  --- [              -]              core\dist\log4js.classes.js  : 当前用户已存在
+2022-11-15 00:38:08:149 INFO  --- [              -]              core\dist\log4js.classes.js  : 当前用户已存在
+2022-11-15 00:38:08:596 INFO  --- [              -]              core\dist\log4js.classes.js  : 当前用户已存在
+2022-11-15 00:38:09:114 INFO  --- [              -]              core\dist\log4js.classes.js  : 当前用户已存在
+2022-11-15 00:38:19:289 INFO  --- [ RoutesResolver]              core\dist\log4js.classes.js  : AppController {/}:
+2022-11-15 00:38:19:292 INFO  --- [ RouterExplorer]              core\dist\log4js.classes.js  : Mapped {/, GET} route
+2022-11-15 00:38:19:292 INFO  --- [ RoutesResolver]              core\dist\log4js.classes.js  : UserController {/user}:
+2022-11-15 00:38:19:293 INFO  --- [ RouterExplorer]              core\dist\log4js.classes.js  : Mapped {/user/register, POST} route
+2022-11-15 00:38:19:298 INFO  --- [NestApplication]              core\dist\log4js.classes.js  : Nest application successfully started
+2022-11-15 00:39:02:066 INFO  --- [ RoutesResolver]              core\dist\log4js.classes.js  : AppController {/}:
+2022-11-15 00:39:02:069 INFO  --- [ RouterExplorer]              core\dist\log4js.classes.js  : Mapped {/, GET} route
+2022-11-15 00:39:02:070 INFO  --- [ RoutesResolver]              core\dist\log4js.classes.js  : UserController {/user}:
+2022-11-15 00:39:02:071 INFO  --- [ RouterExplorer]              core\dist\log4js.classes.js  : Mapped {/user/register, POST} route
+2022-11-15 00:39:02:076 INFO  --- [NestApplication]              core\dist\log4js.classes.js  : Nest application successfully started
+2022-11-15 00:39:03:248 INFO  --- [              -]              core\dist\log4js.classes.js  : 当前用户已存在
+2022-11-15 00:39:17:161 INFO  --- [ RoutesResolver]              core\dist\log4js.classes.js  : AppController {/}:
+2022-11-15 00:39:17:165 INFO  --- [ RouterExplorer]              core\dist\log4js.classes.js  : Mapped {/, GET} route
+2022-11-15 00:39:17:166 INFO  --- [ RoutesResolver]              core\dist\log4js.classes.js  : UserController {/user}:
+2022-11-15 00:39:17:168 INFO  --- [ RouterExplorer]              core\dist\log4js.classes.js  : Mapped {/user/register, POST} route
+2022-11-15 00:39:17:173 INFO  --- [NestApplication]              core\dist\log4js.classes.js  : Nest application successfully started
+2022-11-15 00:39:19:410 INFO  --- [              -]              core\dist\log4js.classes.js  : 当前用户已存在
+2022-11-15 00:41:12:330 INFO  --- [              -]              core\dist\log4js.classes.js  : 当前用户已存在
+2022-11-15 00:42:16:155 INFO  --- [ RoutesResolver]              core\dist\log4js.classes.js  : AppController {/}:
+2022-11-15 00:42:16:159 INFO  --- [ RouterExplorer]              core\dist\log4js.classes.js  : Mapped {/, GET} route
+2022-11-15 00:42:16:160 INFO  --- [ RoutesResolver]              core\dist\log4js.classes.js  : UserController {/user}:
+2022-11-15 00:42:16:160 INFO  --- [ RouterExplorer]              core\dist\log4js.classes.js  : Mapped {/user/register, POST} route
+2022-11-15 00:42:16:166 INFO  --- [NestApplication]              core\dist\log4js.classes.js  : Nest application successfully started
+2022-11-15 00:42:17:490 INFO  --- [              -]              core\dist\log4js.classes.js  : 当前用户已存在
+2022-11-15 00:42:36:049 INFO  --- [ RoutesResolver]              core\dist\log4js.classes.js  : AppController {/}:
+2022-11-15 00:42:36:054 INFO  --- [ RouterExplorer]              core\dist\log4js.classes.js  : Mapped {/, GET} route
+2022-11-15 00:42:36:054 INFO  --- [ RoutesResolver]              core\dist\log4js.classes.js  : UserController {/user}:
+2022-11-15 00:42:36:056 INFO  --- [ RouterExplorer]              core\dist\log4js.classes.js  : Mapped {/user/register, POST} route
+2022-11-15 00:42:36:061 INFO  --- [NestApplication]              core\dist\log4js.classes.js  : Nest application successfully started
+2022-11-15 00:42:38:335 INFO  --- [              -]              core\dist\log4js.classes.js  : 当前用户已存在
+2022-11-15 00:42:56:823 INFO  --- [ RoutesResolver]              core\dist\log4js.classes.js  : AppController {/}:
+2022-11-15 00:42:56:827 INFO  --- [ RouterExplorer]              core\dist\log4js.classes.js  : Mapped {/, GET} route
+2022-11-15 00:42:56:827 INFO  --- [ RoutesResolver]              core\dist\log4js.classes.js  : UserController {/user}:
+2022-11-15 00:42:56:828 INFO  --- [ RouterExplorer]              core\dist\log4js.classes.js  : Mapped {/user/register, POST} route
+2022-11-15 00:42:56:833 INFO  --- [NestApplication]              core\dist\log4js.classes.js  : Nest application successfully started
+2022-11-15 00:43:16:546 INFO  --- [ RoutesResolver]              core\dist\log4js.classes.js  : AppController {/}:
+2022-11-15 00:43:16:550 INFO  --- [ RouterExplorer]              core\dist\log4js.classes.js  : Mapped {/, GET} route
+2022-11-15 00:43:16:550 INFO  --- [ RoutesResolver]              core\dist\log4js.classes.js  : UserController {/user}:
+2022-11-15 00:43:16:551 INFO  --- [ RouterExplorer]              core\dist\log4js.classes.js  : Mapped {/user/register, POST} route
+2022-11-15 00:43:16:556 INFO  --- [NestApplication]              core\dist\log4js.classes.js  : Nest application successfully started
+2022-11-15 00:43:18:540 INFO  --- [ RoutesResolver]              core\dist\log4js.classes.js  : AppController {/}:
+2022-11-15 00:43:18:544 INFO  --- [ RouterExplorer]              core\dist\log4js.classes.js  : Mapped {/, GET} route
+2022-11-15 00:43:18:545 INFO  --- [ RoutesResolver]              core\dist\log4js.classes.js  : UserController {/user}:
+2022-11-15 00:43:18:546 INFO  --- [ RouterExplorer]              core\dist\log4js.classes.js  : Mapped {/user/register, POST} route
+2022-11-15 00:43:18:551 INFO  --- [NestApplication]              core\dist\log4js.classes.js  : Nest application successfully started
+2022-11-15 00:43:20:512 INFO  --- [ RoutesResolver]              core\dist\log4js.classes.js  : AppController {/}:
+2022-11-15 00:43:20:516 INFO  --- [ RouterExplorer]              core\dist\log4js.classes.js  : Mapped {/, GET} route
+2022-11-15 00:43:20:516 INFO  --- [ RoutesResolver]              core\dist\log4js.classes.js  : UserController {/user}:
+2022-11-15 00:43:20:517 INFO  --- [ RouterExplorer]              core\dist\log4js.classes.js  : Mapped {/user/register, POST} route
+2022-11-15 00:43:20:523 INFO  --- [NestApplication]              core\dist\log4js.classes.js  : Nest application successfully started
+2022-11-15 00:43:28:321 INFO  --- [ RoutesResolver]              core\dist\log4js.classes.js  : AppController {/}:
+2022-11-15 00:43:28:324 INFO  --- [ RouterExplorer]              core\dist\log4js.classes.js  : Mapped {/, GET} route
+2022-11-15 00:43:28:325 INFO  --- [ RoutesResolver]              core\dist\log4js.classes.js  : UserController {/user}:
+2022-11-15 00:43:28:326 INFO  --- [ RouterExplorer]              core\dist\log4js.classes.js  : Mapped {/user/register, POST} route
+2022-11-15 00:43:28:331 INFO  --- [NestApplication]              core\dist\log4js.classes.js  : Nest application successfully started
+2022-11-15 00:43:29:631 INFO  --- [              -]              core\dist\log4js.classes.js  : 当前用户已存在
